@@ -1,4 +1,6 @@
 # Image-Classification
+Sample output :
+
 FullyConnectedForMnist :
 ![pic2](https://user-images.githubusercontent.com/36880597/111386053-f8679680-86ab-11eb-8b90-5466a4db7e4c.png)
 
